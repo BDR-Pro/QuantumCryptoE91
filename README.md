@@ -1,2 +1,4 @@
 # QuantumCryptoE91
-simulation and explantion of e91
+
+simulation of e91 protocol
+Project of Twaiq academy Quantum and information technology 
